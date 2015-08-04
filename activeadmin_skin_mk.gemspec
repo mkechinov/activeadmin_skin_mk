@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'activeadmin_skin_mk'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2015-05-07'
   s.summary     = 'ActiveAdmin theme'
   s.description = 'ActiveAdmin theme for MKechinov studio'
